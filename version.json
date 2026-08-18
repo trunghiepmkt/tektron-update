@@ -1,5 +1,5 @@
 {
-  "version": "v4.1.7",
-  "download_url": "https://github.com/trunghiepmkt/tektron-update/releases",
-  "changelog": "- Tích hợp phân hệ Quản lý Prompt AI\n- Tối ưu hóa tốc độ tải dữ liệu chiến dịch Meta Ads"
+  "version": "v4.1.52",
+  "download_url": "https://drive.google.com/file/d/1v4F2VDzgZ5VUeMhh1chfnG1jatN-BLNR/view?usp=sharing",
+  "changelog": "- Sửa lỗi ghép video\n- Sửa đường dẫn dữ liệu, không mất data khi chạy bản đóng gói\n- Thêm xác nhận trước khi tạo campaign\n- Sửa cơ chế kiểm tra cập nhật"
 }
