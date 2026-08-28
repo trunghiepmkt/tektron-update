@@ -1,5 +1,5 @@
 {
-  "version": "v4.1.54",
-  "download_url": "https://drive.google.com/drive/folders/1ONVDncSZ-klFPTeK2TtkpfqU6x457iB-",
-  "changelog": "- Sửa nút 15 (Markets · Shipping · Mã giảm giá): trước đây gọi nhầm hàm nên luôn báo không đọc được cửa hàng\n- Kho nhạc nay được nhớ theo từng Store, không phải chọn lại mỗi lần mở app\n- Ảnh Hero và logo động không còn rơi vào sai thư mục khi chạy setup hàng loạt\n- Popup extension chỉ hiện Store có thật, không còn hiện Store đã xoá"
+  "version": "v4.1.55",
+  "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
+  "changelog": "- Bấm Kiểm Tra Bản Mới là app tự tải và CÀI ĐÈ lên bản cũ, không còn đẻ ra bản thứ hai bắt bạn xoá tay\n- Thêm nút LISTING SẢN PHẨM MỚI: chỉ chạy 7 bước cho sản phẩm, không đụng vào chính sách / logo / About Us của store đang bán\n- Hộp thoại chạy liên hoàn cho CHỌN sản phẩm ngay tại chỗ, không phải nhớ chọn trước ở danh sách\n- Bật app là tự soi quyền Shopify của mọi store, thiếu quyền nào thì báo rõ quyền đó hỏng tính năng nào\n- Nút Markets · Shipping · Mã Giảm Giá: sửa lỗi gọi nhầm hàm nên trước đây luôn báo sai nguyên nhân\n- Nút Đăng Nhập Gemini chuyển sang cột trái và mở đúng trình duyệt của bot (trước đây mở nhầm trình duyệt mặc định)\n- Cửa sổ mở ra vừa màn MacBook, không còn bị ghim ở 1584px\n- Chọn kiểu logo (thường / động) trước khi nhờ Gemini vẽ\n- Các hộp thoại không còn hiện ký tự lạ &nbsp; ở đầu dòng"
 }
