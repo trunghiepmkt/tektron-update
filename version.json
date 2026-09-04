@@ -1,5 +1,5 @@
 {
-  "version": "v4.1.56",
+  "version": "v4.1.57",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
-  "changelog": "- Sửa lỗi bản cài: tải trình duyệt cho Bot xong vẫn báo \"chưa có trình duyệt\". Nay viết AdText bằng Chrome, ảnh Hero, logo, review Judge.me và Đăng Nhập Gemini đều chạy được trên máy mới cài\n- Nút nào cần trình duyệt của Bot cũng tự hỏi tải ngay tại chỗ, không còn bắt sang trang khác bấm nút khác; tải chạy nền nên cửa sổ không bị đơ\n- Nhận đúng bản Chromium đang cần, không còn chấm nhầm một thư mục tải dở là \"đã có\"\n- ID đối tượng nay khai theo TỪNG SẢN PHẨM ở trang Kho Video & Sản Phẩm, không còn một ô dùng chung cả store. Ô trống = ad set chạy rộng"
+  "changelog": "- Báo về ĐIỆN THOẠI qua Telegram và ntfy: cảnh báo lỗ theo từng campaign, có nút Tắt / Bỏ qua bấm ngay trên tin\n- Lên ads từ điện thoại: tích sản phẩm rồi ra lệnh, app tự đọc và chạy\n- Xoá chữ trong video TỰ ĐỘNG 100%: một nút, không hỏi vùng, không xem trước — chạy thật 100 clip, 0 clip hỏng\n- Đo AOV theo TỪNG SẢN PHẨM thay vì dùng chung trung bình cả store\n- Cài Tầng 2 mô hình lợi nhuận (R(S)=a·S^b) và cảnh báo ngân sách\n- Ngân sách: một cửa đọc duy nhất — menu từng ghi $0 cho lượt tiêu $50\n- Gõ '30,5' vào ô Ngân Sách không còn thành 305\n- Đối tượng khai theo từng sản phẩm, không còn một ô chung cả store\n- Nút nào cần trình duyệt cũng tự hỏi tải, không đẩy sang trang khác\n- Bản gọn hơn hẳn: 324 MB thay vì 477 MB"
 }
