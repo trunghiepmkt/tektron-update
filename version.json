@@ -1,5 +1,6 @@
 {
-  "version": "v4.1.58",
+  "version": "v4.2.0",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
-  "changelog": "Clone Sản Phẩm — nâng cấp lớn:\n- Logo: nền trong suốt + tự cắt sát viền (logo to & sắc nét hơn)\n- Clone xong tự tạo thư mục sản phẩm + đưa vào Kho Video & Sản Phẩm (tên · link · thư mục)\n- Thêm store mới: hỏi tạo thư mục gốc ở phần Tải về\n- Ảnh clone tự nén sang WebP → trang nhẹ, load nhanh, đỡ tụt tỉ lệ chuyển đổi\n- Mode 'Thêm vào theme đang chạy': sản phẩm lên Online Store ngay + chỉ chạy bước cấp sản phẩm\n- Dọn template thừa khi tạo store mới (hết 'Assigned to 0 products')\n- Lấy được mô tả đối thủ cả khi store để trống ô mô tả sản phẩm\n- Thanh tiến trình đánh số bước chuẩn theo chế độ (hết nhảy số)\n- Chính sách store: báo đúng mục bị lỗi; gọn hoá kho prompt\n- Công cụ nén ảnh store đang có: giảm dung lượng ảnh, giữ nguyên ảnh động"
+  "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
+  "changelog": "Có bản Windows + sửa lỗi đóng gói:\n- Bản Windows (trừ trang Đăng Instagram — chỉ có trên Mac)\n- Bot Gemini chạy Chrome ẩn: không còn giành chuột/bàn phím khi đang gõ\n- Mở app lần đầu được hỏi tải trình duyệt cho Bot ngay\n- Sửa: cắt video theo cảnh báo thiếu scenedetect\n- Sửa: trang Đăng Instagram không nạp được thư viện Appium\n- Windows: không bật cửa sổ dòng lệnh đen khi chạy việc nền"
 }
