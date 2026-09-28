@@ -2,5 +2,5 @@
   "version": "v4.2.0",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Có bản Windows + sửa lỗi đóng gói:\n- Bản Windows (trừ trang Đăng Instagram — chỉ có trên Mac)\n- Bot Gemini chạy Chrome ẩn: không còn giành chuột/bàn phím khi đang gõ\n- Mở app lần đầu được hỏi tải trình duyệt cho Bot ngay\n- Sửa: cắt video theo cảnh báo thiếu scenedetect\n- Sửa: trang Đăng Instagram không nạp được thư viện Appium\n- Windows: không bật cửa sổ dòng lệnh đen khi chạy việc nền"
+  "changelog": "Tektron Ads System — có bản macOS và Windows:\n- Quản lý nhiều store Shopify trong một app\n- Tạo Content Store, Clone Sản Phẩm, Tạo Blog tự động\n- Lên ads Meta hàng loạt, nhận lệnh từ điện thoại, Dừng Khẩn Cấp\n- Báo cáo + AI Rules tự tắt/tăng ngân sách, cảnh báo Telegram\n- Viết AdText bằng Gemini (Chrome chạy ẩn), Xưởng Media Ads\n- Đăng Instagram tự động (chỉ macOS)"
 }
