@@ -1,6 +1,6 @@
 {
-  "version": "v4.2.0",
+  "version": "v4.3.0",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System — có bản macOS và Windows:\n- Quản lý nhiều store Shopify trong một app\n- Tạo Content Store, Clone Sản Phẩm, Tạo Blog tự động\n- Lên ads Meta hàng loạt, nhận lệnh từ điện thoại, Dừng Khẩn Cấp\n- Báo cáo + AI Rules tự tắt/tăng ngân sách, cảnh báo Telegram\n- Viết AdText bằng Gemini (Chrome chạy ẩn), Xưởng Media Ads\n- Đăng Instagram tự động (chỉ macOS)"
+  "changelog": "Tektron Ads System v4.3.0:\n- MỚI: trang Tìm Sản Phẩm Win — quét Meta Ad Library, Google Trends, Amazon, store Shopify đối thủ; nhãn 🔥 Nóng / 🌱 Mới; đo tồn kho ước đơn/ngày; báo Telegram\n- Báo Cáo & AI Rules: sắp xếp theo cột, lọc chiến dịch đang bật\n- Ô số: mũi tên lên/xuống nhìn rõ trên nền tối\n- Giao diện Windows: tab đọc được, thanh tiêu đề tối, thanh cuộn gọn"
 }
