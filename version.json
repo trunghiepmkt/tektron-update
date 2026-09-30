@@ -1,6 +1,6 @@
 {
-  "version": "v4.3.0",
+  "version": "v4.3.1",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.3.0:\n- MỚI: trang Tìm Sản Phẩm Win — quét Meta Ad Library, Google Trends, Amazon, store Shopify đối thủ; nhãn 🔥 Nóng / 🌱 Mới; đo tồn kho ước đơn/ngày; báo Telegram\n- Báo Cáo & AI Rules: sắp xếp theo cột, lọc chiến dịch đang bật\n- Ô số: mũi tên lên/xuống nhìn rõ trên nền tối\n- Giao diện Windows: tab đọc được, thanh tiêu đề tối, thanh cuộn gọn"
+  "changelog": "Tektron Ads System v4.3.1:\n- Windows: bấm cập nhật là app tự tải và cài đè bản mới, tự mở lại\n- Windows: tự tạo lối tắt Tektron Ads System ở Desktop và Start Menu\n- Trang Tìm Sản Phẩm Win đứng đầu menu"
 }
