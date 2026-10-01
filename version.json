@@ -1,6 +1,6 @@
 {
-  "version": "v4.3.1",
+  "version": "v4.3.2",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.3.1:\n- Windows: bấm cập nhật là app tự tải và cài đè bản mới, tự mở lại\n- Windows: tự tạo lối tắt Tektron Ads System ở Desktop và Start Menu\n- Trang Tìm Sản Phẩm Win đứng đầu menu"
+  "changelog": "Tektron Ads System v4.3.2:\n- Tìm Sản Phẩm Win: chế độ Proxy trực tiếp (không cần ixBrowser), cào cùng IP máy, tự bỏ proxy chết\n- Tự mua proxy proxy.vn (có hỏi xác nhận, có trần mỗi ngày), báo Telegram khi proxy chết\n- Kiểm tra ixBrowser thử thật từng proxy; tự gỡ hồ sơ bị kẹt\n- Windows: sửa lỗi Meta nhận ra trình duyệt ẩn là bot\n- Tạm ẩn Tạo Blog Tự Động và Điều Khiển Apps Script (đang hoàn thiện)"
 }
