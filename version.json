@@ -1,6 +1,6 @@
 {
-  "version": "v4.3.3",
+  "version": "v4.4.0",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.3.3:\n- Cập nhật tự động chạy trọn vẹn: cài xong tự mở và lên trước màn hình, không còn báo thoát bất ngờ\n- Windows: cài đè được (trước đây kẹt ở bước thay bản cũ); hỏng thì tự mở lại bản cũ\n- Tự xoá file cài tải về (~200 MB) sau mỗi lần cập nhật"
+  "changelog": "Tektron Ads System v4.4.0:\n- Bắt buộc đăng nhập tài khoản: đăng ký bằng email, chờ Chủ/Admin duyệt\n- Máy chủ gom dữ liệu Tìm SP + kho chung cho cả nhóm\n- Clone: ảnh nét hơn, tự tạo Bundle, ảnh review Judge.me\n- Windows: nếu hiện hộp 'Lỗi Ứng Dụng … flush' khi cập nhật, bấm OK để cài tiếp (từ bản này hết lỗi)"
 }
