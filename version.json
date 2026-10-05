@@ -1,6 +1,6 @@
 {
-  "version": "v4.4.0",
+  "version": "v4.4.1",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.0:\n- Bắt buộc đăng nhập tài khoản: đăng ký bằng email, chờ Chủ/Admin duyệt\n- Máy chủ gom dữ liệu Tìm SP + kho chung cho cả nhóm\n- Clone: ảnh nét hơn, tự tạo Bundle, ảnh review Judge.me\n- Windows: nếu hiện hộp 'Lỗi Ứng Dụng … flush' khi cập nhật, bấm OK để cài tiếp (từ bản này hết lỗi)"
+  "changelog": "Tektron Ads System v4.4.1:\n- Xưởng Media Ads: thiếu môi trường Xoá chữ AI thì hỏi 'Cài ngay / Bỏ qua', cài thẳng trong app\n- Xoá chữ AI dùng ffmpeg kèm app, không cần tự cài\n- Lăn chuột không còn vô tình đổi giá trị ô số / ô chọn"
 }
