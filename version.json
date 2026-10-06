@@ -2,5 +2,5 @@
   "version": "v4.4.2",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.2:\n- Windows: Đăng xuất / bị khoá / hết hạn không còn kẹt ở hộp lỗi 'flush', app tự khởi động lại\n- Kèm mọi thay đổi của v4.4.1: voice đầy đủ, chọn giọng + cảm xúc, cột Loại Media, cài Xoá chữ AI ngay trong app"
+  "changelog": "Tektron Ads System v4.4.2:\n- Windows: tự cập nhật chạy được (trước đây app tắt mà không lên bản mới)\n- Windows: Xoá chữ AI 'Cài ngay' không còn hỏng ở bước cài Git / Python\n- Windows: Đăng xuất / bị khoá không còn kẹt ở hộp lỗi 'flush'\n- Kèm mọi thay đổi của v4.4.1: voice đầy đủ, chọn giọng + cảm xúc, cột Loại Media, cài Xoá chữ AI ngay trong app"
 }
