@@ -1,6 +1,6 @@
 {
-  "version": "v4.4.1",
+  "version": "v4.4.2",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.1:\n- Xưởng Media Ads: thiếu môi trường Xoá chữ AI thì hỏi 'Cài ngay / Bỏ qua', cài thẳng trong app\n- Xoá chữ AI dùng ffmpeg kèm app, không cần tự cài\n- Lăn chuột không còn vô tình đổi giá trị ô số / ô chọn"
+  "changelog": "Tektron Ads System v4.4.2:\n- Windows: Đăng xuất / bị khoá / hết hạn không còn kẹt ở hộp lỗi 'flush', app tự khởi động lại\n- Kèm mọi thay đổi của v4.4.1: voice đầy đủ, chọn giọng + cảm xúc, cột Loại Media, cài Xoá chữ AI ngay trong app"
 }
