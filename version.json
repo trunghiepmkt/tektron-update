@@ -1,6 +1,6 @@
 {
-  "version": "v4.4.3",
+  "version": "v4.4.4",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.3:\n- Tìm SP: tự đổi IP Deeper khi Meta chặn (Cài đặt quét → khung Deeper), cào tiếp ngay thay vì nghỉ 30 phút\n- Cấu hình System: ghi rõ bot cảnh báo ADS / bot riêng nhận SP / bot chung Máy chủ\n- Clone: review thật 125–368 (nhanh hơn nhiều), giữ logo tĩnh\n- Bot Pumper: chạy với trình chỉnh sửa mới; bỏ Microsoft Clarity khỏi app cần có"
+  "changelog": "Tektron Ads System v4.4.4:\n- Tìm SP: bấm tiêu đề cột là xếp TOÀN KHO (tab Sản phẩm, Đối thủ, Amazon), không chỉ 50 dòng trang đang xem — bấm lại = đảo chiều\n- Bảng không hiện nhầm thứ tự cũ khi vừa đổi tab rồi bấm xếp\n- Kèm v4.4.3: tự đổi IP Deeper khi Meta chặn, ghi rõ 3 loại bot Telegram"
 }
