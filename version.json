@@ -1,6 +1,6 @@
 {
-  "version": "v4.4.2",
+  "version": "v4.4.3",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.2:\n- Windows: tự cập nhật chạy được (trước đây app tắt mà không lên bản mới)\n- Windows: Xoá chữ AI 'Cài ngay' không còn hỏng ở bước cài Git / Python\n- Windows: Đăng xuất / bị khoá không còn kẹt ở hộp lỗi 'flush'\n- Kèm mọi thay đổi của v4.4.1: voice đầy đủ, chọn giọng + cảm xúc, cột Loại Media, cài Xoá chữ AI ngay trong app"
+  "changelog": "Tektron Ads System v4.4.3:\n- Tìm SP: tự đổi IP Deeper khi Meta chặn (Cài đặt quét → khung Deeper), cào tiếp ngay thay vì nghỉ 30 phút\n- Cấu hình System: ghi rõ bot cảnh báo ADS / bot riêng nhận SP / bot chung Máy chủ\n- Clone: review thật 125–368 (nhanh hơn nhiều), giữ logo tĩnh\n- Bot Pumper: chạy với trình chỉnh sửa mới; bỏ Microsoft Clarity khỏi app cần có"
 }
