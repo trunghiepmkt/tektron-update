@@ -1,6 +1,6 @@
 {
-  "version": "v4.4.4",
+  "version": "v4.5.0",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.4.4:\n- Tìm SP: bấm tiêu đề cột là xếp TOÀN KHO (tab Sản phẩm, Đối thủ, Amazon), không chỉ 50 dòng trang đang xem — bấm lại = đảo chiều\n- Bảng không hiện nhầm thứ tự cũ khi vừa đổi tab rồi bấm xếp\n- Kèm v4.4.3: tự đổi IP Deeper khi Meta chặn, ghi rõ 3 loại bot Telegram"
+  "changelog": "Tektron Ads System v4.5.0:\n- Mới: Đăng Shop Posts tự động (hẹn giờ bài kênh Shop, chống trùng)\n- Mới: VIDEO CHỮ ĐỘNG trong Xưởng Media Ads (footage thật + chữ động + giọng + nhạc)\n- Mới: Xưởng Flow AI (thử nghiệm) + viết AdText bằng Meta AI\n- Tìm SP: Deeper tự chuyển vùng khi hết IP sạch"
 }
