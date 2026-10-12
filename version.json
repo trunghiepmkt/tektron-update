@@ -1,6 +1,6 @@
 {
-  "version": "v4.5.0",
+  "version": "v4.5.1",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.0:\n- Mới: Đăng Shop Posts tự động (hẹn giờ bài kênh Shop, chống trùng)\n- Mới: VIDEO CHỮ ĐỘNG trong Xưởng Media Ads (footage thật + chữ động + giọng + nhạc)\n- Mới: Xưởng Flow AI (thử nghiệm) + viết AdText bằng Meta AI\n- Tìm SP: Deeper tự chuyển vùng khi hết IP sạch"
+  "changelog": "Tektron Ads System v4.5.1:\n- Mới: màn Cài thành phần bắt buộc — tự cài Chrome của bot, Node.js + ffmpeg + HyperFrames (Video chữ động), Upscale, môi trường Xoá chữ AI\n- Sửa: Clone store mới có lại theme nền LYS\n- Lần đầu mở cần mạng + ~6 GB trống, 15–45 phút"
 }
