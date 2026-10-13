@@ -1,6 +1,6 @@
 {
-  "version": "v4.5.3",
+  "version": "v4.5.4",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.3:\n- Sửa: cài môi trường Xoá chữ AI trên Windows không cần Git / winget (máy không có winget trước đây dừng ở bước Git)\n- Màn Cài thành phần: lỗi dài không đẩy mất cột tên\n- Kèm v4.5.2: tự báo bản mới, bản bắt buộc tự cập nhật"
+  "changelog": "Tektron Ads System v4.5.4:\n- Cài thành phần không còn bắt buộc: bấm X chỉ ẩn, app cài tiếp ở nền\n- Lên ads nhắm Úc: ô Nhà quảng cáo được lưu đúng\n- Kho Prompt: kho chung / kho riêng theo store\n- Tìm SP: tổng ads thật của store\n- Clone: Xem kế hoạch kiểm trước khi clone\n- Cấu hình: Lưu sau khi Kiểm tra Shopify không còn mất Domain/Secret"
 }
