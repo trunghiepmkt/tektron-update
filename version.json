@@ -1,6 +1,6 @@
 {
-  "version": "v4.5.2",
+  "version": "v4.5.3",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.2:\n- Mới: tự báo bản mới (popup Cập nhật ngay / Để sau) lúc mở app + mỗi 6 giờ\n- Mới: bản bắt buộc tự cập nhật lúc mở app\n- Log gọn khi mất mạng\n- Kèm v4.5.1: màn Cài thành phần bắt buộc, Clone store mới có lại theme LYS"
+  "changelog": "Tektron Ads System v4.5.3:\n- Sửa: cài môi trường Xoá chữ AI trên Windows không cần Git / winget (máy không có winget trước đây dừng ở bước Git)\n- Màn Cài thành phần: lỗi dài không đẩy mất cột tên\n- Kèm v4.5.2: tự báo bản mới, bản bắt buộc tự cập nhật"
 }
