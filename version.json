@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.5",
+  "version": "v4.5.6",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.5 (BẮT BUỘC):\n- Sửa lỗi nặng của v4.5.4: Clone sản phẩm chạy thật bị dừng (UnboundLocalError load_prompts)\n- Xem kế hoạch trước khi clone dùng đúng kho prompt của store\n- Kèm v4.5.4: Cài thành phần không bắt buộc (X chỉ ẩn), Nhà quảng cáo AU, kho prompt theo store, Tìm SP tổng ads thật",
+  "changelog": "Tektron Ads System v4.5.6:\n- Thanh bên gọn: ☰ Menu Thành Phần, dòng Phiên bản = kiểm tra bản mới, xoá store bằng 🗑️\n- Popup Hướng dẫn dùng TEKTRON (video YouTube) lúc mở app\n- Clone lấy cả ảnh trong trang đối thủ (Replo, GemPages, Shogun, PageFly…)\n- Nội dung gửi khách luôn tiếng Anh\n- Ghi lỗi chi tiết vào tektron.log / crash.log",
   "phien_ban_toi_thieu": "v4.5.5"
 }
