@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.6",
+  "version": "v4.5.7",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.6:\n- Thanh bên gọn: ☰ Menu Thành Phần, dòng Phiên bản = kiểm tra bản mới, xoá store bằng 🗑️\n- Popup Hướng dẫn dùng TEKTRON (video YouTube) lúc mở app\n- Clone lấy cả ảnh trong trang đối thủ (Replo, GemPages, Shogun, PageFly…)\n- Nội dung gửi khách luôn tiếng Anh\n- Ghi lỗi chi tiết vào tektron.log / crash.log",
-  "phien_ban_toi_thieu": "v4.5.5"
+  "changelog": "Tektron Ads System v4.5.7 (BẮT BUỘC):\n- Giao diện tiếng Anh: nút VI | EN cạnh chữ TEKTRON, đổi ngay không mở lại app\n- Duyệt tài khoản: bỏ mẫu Nhân viên, duyệt luôn ra Người dùng\n- Nhóm duyệt Telegram: mọi thành viên nhóm bấm duyệt được\n- Clone store mới: section Blocky đổi màu tím mặc định sang màu store\n- Windows: ô log màn Cài thành phần hết nền trắng",
+  "phien_ban_toi_thieu": "v4.5.7"
 }
