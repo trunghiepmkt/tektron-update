@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.7",
+  "version": "v4.5.8",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.7 (BẮT BUỘC):\n- Giao diện tiếng Anh: nút VI | EN cạnh chữ TEKTRON, đổi ngay không mở lại app\n- Duyệt tài khoản: bỏ mẫu Nhân viên, duyệt luôn ra Người dùng\n- Nhóm duyệt Telegram: mọi thành viên nhóm bấm duyệt được\n- Clone store mới: section Blocky đổi màu tím mặc định sang màu store\n- Windows: ô log màn Cài thành phần hết nền trắng",
+  "changelog": "Tektron Ads System v4.5.8:\n- Tự cập nhật nhanh hơn nhiều (8 luồng, tải tiếp) — có hiệu lực từ lần cập nhật sau\n- Tìm SP: tab Mùa vụ (Ad Library mùa sale, Google Trends 5 năm, nghiên cứu sâu bằng Claude)\n- Lên Ads: nhân bản / chỉnh chiến dịch đang chạy, phân tích hook, gộp nhiều SP\n- Đăng Bài Tự Động: thêm Instagram + Page Facebook, AI viết caption\n- Clone: Xem & chọn mẫu, 6 mẫu LYS, kho section Blocky\n- Xưởng Media: nhạc nền AI, giọng Kokoro dự phòng, xoá vật đang di chuyển",
   "phien_ban_toi_thieu": "v4.5.7"
 }
