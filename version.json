@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.8",
+  "version": "v4.5.9",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.8:\n- Tự cập nhật nhanh hơn nhiều (8 luồng, tải tiếp) — có hiệu lực từ lần cập nhật sau\n- Tìm SP: tab Mùa vụ (Ad Library mùa sale, Google Trends 5 năm, nghiên cứu sâu bằng Claude)\n- Lên Ads: nhân bản / chỉnh chiến dịch đang chạy, phân tích hook, gộp nhiều SP\n- Đăng Bài Tự Động: thêm Instagram + Page Facebook, AI viết caption\n- Clone: Xem & chọn mẫu, 6 mẫu LYS, kho section Blocky\n- Xưởng Media: nhạc nền AI, giọng Kokoro dự phòng, xoá vật đang di chuyển",
+  "changelog": "Tektron Ads System v4.5.9:\n- Mac: app chạy thẳng từ Downloads (macOS khoá chỉ đọc) giờ tự hỏi \"Chuyển vào Applications\" — bấm Chuyển ngay là app tự chép vào Applications rồi mở lại, từ đó tự cập nhật được (trước đây bấm cập nhật là tắt rồi mở lại vẫn bản cũ)\n- Cập nhật hỏng (app mở lại bản cũ) giờ báo rõ lý do + nút tải bản cài tay, không còn im lặng",
   "phien_ban_toi_thieu": "v4.5.7"
 }
