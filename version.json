@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.9",
+  "version": "v4.5.10",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.9:\n- Mac: app chạy thẳng từ Downloads (macOS khoá chỉ đọc) giờ tự hỏi \"Chuyển vào Applications\" — bấm Chuyển ngay là app tự chép vào Applications rồi mở lại, từ đó tự cập nhật được (trước đây bấm cập nhật là tắt rồi mở lại vẫn bản cũ)\n- Cập nhật hỏng (app mở lại bản cũ) giờ báo rõ lý do + nút tải bản cài tay, không còn im lặng",
+  "changelog": "Tektron Ads System v4.5.10:\n- Windows: sửa đăng nhập bot (Shopify / Gemini) quay vòng mãi không vào được — bot Chromium không còn mở kèm cổng gỡ lỗi\n- Mùa vụ: 🔁 Quét liên tục hết từ khoá thì AI tự sinh từ khoá mới theo ô Chủ đề (không lặp từ đã quét) rồi quét tiếp, lứa nào không ra SP mới thì tự dừng; bỏ nút ▶ Quét mùa 1 lượt và 🤖 AI gợi ý\n- Mùa vụ: ⭐ dùng CHUNG trên kho tổng (ai xem kho tổng cũng thấy, ghi tên người lưu) — cần PC Máy chủ lên bản này\n- Mùa vụ: tiêu đề cột bảng không còn bị cắt chữ",
   "phien_ban_toi_thieu": "v4.5.7"
 }
