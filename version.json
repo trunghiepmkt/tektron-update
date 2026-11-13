@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.17",
+  "version": "v4.5.18",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.17:\n- Giọng Kokoro: đọc theo nhịp từng câu (câu hỏi/cảm thán/câu chốt có tốc độ và chỗ nghỉ riêng), phụ đề khớp từng chữ; Cài đặt có thêm ô Trộn thêm giọng + tỉ lệ %\n- Clone: đọc giá đối thủ luôn theo thị trường Mỹ (USD), hết báo giá bất thường khi máy ở VN\n- Clone y nguyên: bundle giữ số lượng/% giảm nhưng AI viết lại tên bậc; phần mua ẩn dòng phí ship + trả góp Shop Pay, tắt nút thanh toán nhanh; nút mua theo màu thương hiệu đối thủ; menu Shop Now đứng sau Home; theme nháp tên 'Chep <đối thủ> - dd/mm', không lộ tên đối thủ ở /collections",
+  "changelog": "Tektron Ads System v4.5.18:\n- Clone: đọc đúng sản phẩm ở store đối thủ trả dữ liệu kiểu khác (giá cent, lựa chọn chữ thường) — hết giá ảo kiểu 91.300.000 USD; luôn tải theo thị trường Mỹ\n- Clone y nguyên: slider + sao đánh giá hiện đúng ở mọi section chép; slider giữ số cột/khoảng cách theo theme đối thủ\n- macOS: tên app ở Dock/Finder/thanh menu là \"Tektron\"",
   "phien_ban_toi_thieu": "v4.5.7"
 }
