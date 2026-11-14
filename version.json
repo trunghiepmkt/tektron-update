@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.18",
+  "version": "v4.5.19",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.18:\n- Clone: đọc đúng sản phẩm ở store đối thủ trả dữ liệu kiểu khác (giá cent, lựa chọn chữ thường) — hết giá ảo kiểu 91.300.000 USD; luôn tải theo thị trường Mỹ\n- Clone y nguyên: slider + sao đánh giá hiện đúng ở mọi section chép; slider giữ số cột/khoảng cách theo theme đối thủ\n- macOS: tên app ở Dock/Finder/thanh menu là \"Tektron\"",
+  "changelog": "Tektron Ads System v4.5.19:\n- Clone: sửa giá ảo khi clone từ extension (kiểu 4,431,000 USD); clone store mới giữ template SP đang bán\n- Ảnh ads: nhiều mẫu ảnh tĩnh mới, nút Sửa ảnh đã tạo, dải chữ băng dưới riêng từng store\n- Xưởng Media: Tìm source giống SP (TikTok + Amazon); cảnh báo văn AI trong AdText\n- Lên Ads: Nhân bản dùng chính creative gốc; tự động ngân sách theo UTM (chế độ chỉ báo)\n- Tìm SP: đo tổng ads thật nhanh hơn; Tranh luận AI 3 vai\n- App mở nhanh hơn; bot Pumper/Upsell/Kaching ổn định hơn",
   "phien_ban_toi_thieu": "v4.5.7"
 }
