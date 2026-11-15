@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.20",
+  "version": "v4.5.21",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron Ads System v4.5.20 (BẮT BUỘC — bản vá bảo mật):\n- Máy chủ nội bộ chỉ nhận lệnh từ đúng extension TEKTRON; extension lạ không ra lệnh tải / đọc thư mục store được nữa\n- Chặn trang web lạ đọc thông tin app (DNS rebinding); chỉ tải vào thư mục store, link không trỏ vào mạng nội bộ\n- SAU KHI CẬP NHẬT: cài lại extension Chrome 1 lần (☰ Menu → 🧩 Tải Extension (.zip) → gỡ bản cũ ở chrome://extensions → Load unpacked)",
-  "phien_ban_toi_thieu": "v4.5.20"
+  "changelog": "Tektron v4.5.21 (BẮT BUỘC):\n- Đổi tên app thành Tektron (Mac: Tektron.app, Windows: Tektron.exe + lối tắt \"Tektron\").\n- Bảo mật tự cập nhật: chỉ tải từ đúng kho phát hành TEKTRON và chỉ cài khi chữ ký số khớp.",
+  "phien_ban_toi_thieu": "v4.5.21"
 }
