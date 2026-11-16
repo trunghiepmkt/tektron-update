@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.21",
+  "version": "v4.5.22",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron v4.5.21 (BẮT BUỘC):\n- Đổi tên app thành Tektron (Mac: Tektron.app, Windows: Tektron.exe + lối tắt \"Tektron\").\n- Bảo mật tự cập nhật: chỉ tải từ đúng kho phát hành TEKTRON và chỉ cài khi chữ ký số khớp.",
+  "changelog": "Tektron v4.5.22:\n- Tự động ngân sách: nút \"Tự động\" từng store ở Cài đặt, chỉ xét camp Bán hàng, ngưỡng theo giá trị đơn thật.\n- Tự tắt ad không ra đơn (chừa ad mới tạo dưới 6 giờ).\n- 8 mẫu Tektron dùng được khi clone (hộp chọn mẫu 2 họ LYS | Tektron).\n- Đổi tên app trên Mac ổn định hơn.",
   "phien_ban_toi_thieu": "v4.5.21"
 }
