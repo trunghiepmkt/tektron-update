@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.22",
+  "version": "v4.5.23",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron v4.5.22:\n- Tự động ngân sách: nút \"Tự động\" từng store ở Cài đặt, chỉ xét camp Bán hàng, ngưỡng theo giá trị đơn thật.\n- Tự tắt ad không ra đơn (chừa ad mới tạo dưới 6 giờ).\n- 8 mẫu Tektron dùng được khi clone (hộp chọn mẫu 2 họ LYS | Tektron).\n- Đổi tên app trên Mac ổn định hơn.",
+  "changelog": "Tektron v4.5.23:\n- Tự động ngân sách: bộ luật mới (đầu ngày về $50, mốc $10/$25/$60, nhân đôi khi ROAS đạt ngưỡng).\n- Ngưỡng ROAS / CPA hoà vốn theo giá vốn từng sản phẩm.\n- Sửa tắt nhầm camp đang lãi do đơn mất UTM.\n- Ô ID nhóm Telegram chỉ nhận báo cáo.\n- Thêm / đổi tên / xoá store nạp lại đúng số.",
   "phien_ban_toi_thieu": "v4.5.21"
 }
