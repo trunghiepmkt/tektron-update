@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.23",
+  "version": "v4.5.24",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron v4.5.23:\n- Tự động ngân sách: bộ luật mới (đầu ngày về $50, mốc $10/$25/$60, nhân đôi khi ROAS đạt ngưỡng).\n- Ngưỡng ROAS / CPA hoà vốn theo giá vốn từng sản phẩm.\n- Sửa tắt nhầm camp đang lãi do đơn mất UTM.\n- Ô ID nhóm Telegram chỉ nhận báo cáo.\n- Thêm / đổi tên / xoá store nạp lại đúng số.",
+  "changelog": "Tektron v4.5.24:\n- Tự động ngân sách: xếp loại camp theo ROAS 7 ngày (win nền $100, lỗ tắt hẳn), bỏ lọc CPC cho camp có số.\n- Chỉ tắt hẳn khi đã chi đủ 2 × CPA hoà vốn; tự bật lại camp thì hệ xoá đếm.\n- Sổ Store: P&L + order kho + fulfill tự động.\n- AdText Gemini hợp giao diện Gemini mới.\n- Sửa bot Pumper/Kaching, Xoá vật SAM2, Tìm source.",
   "phien_ban_toi_thieu": "v4.5.21"
 }
