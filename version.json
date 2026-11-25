@@ -1,7 +1,7 @@
 {
-  "version": "v4.5.27",
+  "version": "v4.5.28",
   "download_url": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Mac.zip",
   "download_url_win": "https://github.com/trunghiepmkt/tektron-update/releases/latest/download/TektronSystem-Win.zip",
-  "changelog": "Tektron v4.5.27:\n- Tự động ngân sách gọi Meta ít hơn (bớt lỗi \"too many calls\").\n- Luật tắt camp 17h–21h giờ VN, 21h bật lại (ô ⏰ ở thẻ 🤖 Tự động, có A/B).\n- Lọc CPC phải thấy CPC cao 2 lượt liền mới tắt.",
+  "changelog": "Tektron v4.5.28:\n- Tự động ngân sách: bộ luật mới — tăng ×2 tới $200 rồi +20% (21h–11h giờ VN); không ra đơn thì về $50 / tắt trong ngày cho mọi camp; cắt lỗ bằng tiền; LỖ xét thống kê 14 ngày.\n- Gọi Meta ít hơn, luật tắt camp 17h–21h (A/B).",
   "phien_ban_toi_thieu": "v4.5.21"
 }
